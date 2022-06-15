@@ -1,0 +1,11 @@
+C:\Users\offic\source\repos\AnalyzerText\AnalyzerText\bin\Debug\AnalyzerText.exe.config
+C:\Users\offic\source\repos\AnalyzerText\AnalyzerText\bin\Debug\AnalyzerText.exe
+C:\Users\offic\source\repos\AnalyzerText\AnalyzerText\bin\Debug\AnalyzerText.pdb
+C:\Users\offic\source\repos\AnalyzerText\AnalyzerText\obj\Debug\AnalyzerText.csproj.AssemblyReference.cache
+C:\Users\offic\source\repos\AnalyzerText\AnalyzerText\obj\Debug\AnalyzerText.csproj.SuggestedBindingRedirects.cache
+C:\Users\offic\source\repos\AnalyzerText\AnalyzerText\obj\Debug\AnalyzerText.Form1.resources
+C:\Users\offic\source\repos\AnalyzerText\AnalyzerText\obj\Debug\AnalyzerText.Properties.Resources.resources
+C:\Users\offic\source\repos\AnalyzerText\AnalyzerText\obj\Debug\AnalyzerText.csproj.GenerateResource.cache
+C:\Users\offic\source\repos\AnalyzerText\AnalyzerText\obj\Debug\AnalyzerText.csproj.CoreCompileInputs.cache
+C:\Users\offic\source\repos\AnalyzerText\AnalyzerText\obj\Debug\AnalyzerText.exe
+C:\Users\offic\source\repos\AnalyzerText\AnalyzerText\obj\Debug\AnalyzerText.pdb
